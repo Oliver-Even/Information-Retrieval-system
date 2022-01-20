@@ -11,3 +11,5 @@ mini 信息检索系统
 hyatt-k中为要检索的文档
 
 dictionary为暂存倒排索引
+
+pdf介绍文档
